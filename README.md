@@ -24,7 +24,7 @@ OVERVIEWS:
   step 4->  Find out the efficiency of project by comparing with other existing method.
   
 
-NOTE : -------------------------------- GIVEN SOURCE CODES OF MATLAB------------------ 
+NOTE : -------------------------------- GIVEN SOURCE CODES OF MATLAB-------
 
 
 THANK YOU
